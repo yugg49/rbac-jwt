@@ -1,0 +1,14 @@
+{
+  "name": "rbac-demo",
+  "version": "1.0.0",
+  "description": "Lecture demo: RBAC authorization middleware in Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
